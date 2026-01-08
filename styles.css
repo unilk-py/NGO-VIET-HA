@@ -28,13 +28,13 @@ body {
 }
 
 .company-logo {
-    width: 100%;             /* Occupies most of the width but leaves breathing room */
+    width: 100%;           
     margin: 0 auto;
 }
 
 .company-logo img {
-    max-width: 100%;        /* Ensures image never overflows the container */
-    height: auto;           /* Maintains aspect ratio */
+    max-width: 100%;       
+    height: auto;          
     object-fit: cover;
     display: block;
 }
@@ -193,5 +193,6 @@ body {
     align-items: center;
     gap: 10px;
 }
+
 
 /* --- CONTACT LIST ---
